@@ -2,7 +2,7 @@
 $BootstrapFile = '../../../plugins/UsefulFunctions/bootstrap.console.php';
 if (file_exists($BootstrapFile)) require $BootstrapFile;
 
-$ProductCssFile = __DIR__ . '/grid.css';
+$ProductCssFile = __DIR__ . '/__grid.css';
 $VendorPrefixes = array('', '-moz-');
 $ClassNames = array();
 $CssRules = array();
