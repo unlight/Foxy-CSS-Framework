@@ -1,0 +1,133 @@
+.Row {
+	margin: 0 0 20px 0;
+	display: block;
+}
+
+.Row div {
+    vertical-align: top;
+}
+
+.Row div:first-child {
+	margin-left: 0px;
+}
+
+.A1, .A2, .Z2, .A3, .Z3, .A4, .Z4, .A5, .Z5, .A6, .Z6, .A7, .Z7, .A8, .Z8, .A9, .Z9, .A10, .Z10, .A11, .Z11, .A12, .Z12 {
+	display: inline-block;
+    margin-left: 10px;
+}
+
+
+.A1 {
+	width: calc(100%/1 - 10px);
+	width: -moz-calc(100%/1 - 10px);
+}
+
+.A2 {
+	width: calc(100%/2 - 10px);
+	width: -moz-calc(100%/2 - 10px);
+}
+
+.Z2 {
+	width: calc(100% - 100%/2 - 10px);
+	width: -moz-calc(100% - 100%/2 - 10px);
+}
+
+.A3 {
+	width: calc(100%/3 - 10px);
+	width: -moz-calc(100%/3 - 10px);
+}
+
+.Z3 {
+	width: calc(100% - 100%/3 - 10px);
+	width: -moz-calc(100% - 100%/3 - 10px);
+}
+
+.A4 {
+	width: calc(100%/4 - 10px);
+	width: -moz-calc(100%/4 - 10px);
+}
+
+.Z4 {
+	width: calc(100% - 100%/4 - 10px);
+	width: -moz-calc(100% - 100%/4 - 10px);
+}
+
+.A5 {
+	width: calc(100%/5 - 10px);
+	width: -moz-calc(100%/5 - 10px);
+}
+
+.Z5 {
+	width: calc(100% - 100%/5 - 10px);
+	width: -moz-calc(100% - 100%/5 - 10px);
+}
+
+.A6 {
+	width: calc(100%/6 - 10px);
+	width: -moz-calc(100%/6 - 10px);
+}
+
+.Z6 {
+	width: calc(100% - 100%/6 - 10px);
+	width: -moz-calc(100% - 100%/6 - 10px);
+}
+
+.A7 {
+	width: calc(100%/7 - 10px);
+	width: -moz-calc(100%/7 - 10px);
+}
+
+.Z7 {
+	width: calc(100% - 100%/7 - 10px);
+	width: -moz-calc(100% - 100%/7 - 10px);
+}
+
+.A8 {
+	width: calc(100%/8 - 10px);
+	width: -moz-calc(100%/8 - 10px);
+}
+
+.Z8 {
+	width: calc(100% - 100%/8 - 10px);
+	width: -moz-calc(100% - 100%/8 - 10px);
+}
+
+.A9 {
+	width: calc(100%/9 - 10px);
+	width: -moz-calc(100%/9 - 10px);
+}
+
+.Z9 {
+	width: calc(100% - 100%/9 - 10px);
+	width: -moz-calc(100% - 100%/9 - 10px);
+}
+
+.A10 {
+	width: calc(100%/10 - 10px);
+	width: -moz-calc(100%/10 - 10px);
+}
+
+.Z10 {
+	width: calc(100% - 100%/10 - 10px);
+	width: -moz-calc(100% - 100%/10 - 10px);
+}
+
+.A11 {
+	width: calc(100%/11 - 10px);
+	width: -moz-calc(100%/11 - 10px);
+}
+
+.Z11 {
+	width: calc(100% - 100%/11 - 10px);
+	width: -moz-calc(100% - 100%/11 - 10px);
+}
+
+.A12 {
+	width: calc(100%/12 - 10px);
+	width: -moz-calc(100%/12 - 10px);
+}
+
+.Z12 {
+	width: calc(100% - 100%/12 - 10px);
+	width: -moz-calc(100% - 100%/12 - 10px);
+}
