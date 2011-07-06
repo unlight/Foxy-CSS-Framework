@@ -16,3 +16,7 @@ Find more on [my blog](http://www.vcarrer.com/2011/06/foxy-css-framework.html)
 HTML5
 =====
 http://html5shim.googlecode.com/svn/trunk/html5.js
+
+
+TODO:
+- fix css grid by javascript if no support
