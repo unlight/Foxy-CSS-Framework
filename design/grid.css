@@ -10,26 +10,30 @@
 .Row div:first-child {
 	margin-left: 0px;
 }
+.Row div:last-child {
+	margin-right: 0px;
+}
 
 .A1, .A2, .Z2, .A3, .Z3, .A4, .Z4, .A5, .Z5, .A6, .Z6 {
 	display: inline-block;
-    margin-left: 10px;
+    /*margin-left: 10px;*/
+}
+
+.Row > div + div {
+	padding:0 5px;
 }
 
 
 .A1 {
-	width: calc(100%/1 - 10px);
-	width: -moz-calc(100%/1 - 10px);
+	width: 100%;
 }
 
 .A2 {
-	width: calc(100%/2 - 10px);
-	width: -moz-calc(100%/2 - 10px);
+	width: 50%;
 }
 
 .Z2 {
-	width: calc(100% - 100%/2 - 10px);
-	width: -moz-calc(100% - 100%/2 - 10px);
+	width: 50%;
 }
 
 .A3 {
